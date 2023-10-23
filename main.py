@@ -11,8 +11,8 @@ def main():
     m_perc = mnum / total * 100
     f_perc = fnum / total * 100
 
-    print (f'The percentage of male student is {m_perc:.2f}%')
-    print (f'The percentage of female student is {f_perc:.2f}%')
+    print (f'The percentage of male student is {m_perc:.2f}')
+    print (f'The percentage of female student is {f_perc:.2f}')
     """
     ########################################
     # Do not delete the return statement
